@@ -16,17 +16,17 @@ Repositorio donde se almacenan los prototipos y evidencias de la materia de Crea
 ### Prototipo 1
 
 - Proyecto de la lección 1: [Prototipo01](./assets/Prototipo01.unitypackage)
-- Evidencia de la lección 1: [Evidencia01](./Evidencia/Prototipo1.pdf)
+- Evidencia de la lección 1: [Evidencia01](Evidencias/Prototipo01.pdf)
 
 ### Prototipo 2
 
 - Proyecto de la lección 2: [Prototipo02](./assets/Prototipo02.unitypackage)
-- Evidencia de la lección 2: [Evidencia02](./Evidencia/Prototipo2.pdf)
+- Evidencia de la lección 2: [Evidencia02](Evidencias/Prototipo02.pdf)
 
 ### Prototipo 3
 
 - Proyecto de la parte 1 y 2: [Prototipo03](./assets/Prototipo03.unitypackage)
-- Evidencia de la Parte 1: [Evidencia03](./Evidencia/Prototipo3.pdf)
+- Evidencia de la Parte 1: [Evidencia03](Evidencias/Prototipo03.pdf)
 
 ### Prototipo 4
 
